@@ -1,1 +1,1 @@
-# Linked-List-and-Hash-Map-Searching
+# Linked-List-and-Hash-Table-Searching
